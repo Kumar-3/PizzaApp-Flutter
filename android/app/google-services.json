@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538678267290",
+    "project_id": "pizza-delivery-34365",
+    "storage_bucket": "pizza-delivery-34365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538678267290:android:ce0f5f71ca60b84cfa3e23",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBORUNOCEDW3TwSv_4yPsS13J92CVQ_eqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
